@@ -1,3 +1,13 @@
+# Ignore everything outside this project folder
+/*
+!index.html
+!index.tsx
+!metadata.json
+!package.json
+!README.md
+!test_ai.ts
+!tsconfig.json
+!vite.config.ts
 # Logs
 logs
 *.log
